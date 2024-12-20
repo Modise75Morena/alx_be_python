@@ -4,7 +4,7 @@ number2= 5
 # addition
 
 k = number1 + number2
-print(f"ADDITION OF {number1} and {number2} is {k}")
+print(f"Addition of {number1} and {number2} is {k}")
 
 # subtraction
 
